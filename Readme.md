@@ -16,8 +16,8 @@ docker build -t sipp .
 
 ## -> need to edit uac_pcap to replace [local ip address] to current external IP address
 
-    ` v=0
+      v=0
       o=user1 53655765 2353687637 IN IP[local_ip_type] <local external IP address>
       s=-
-      c=IN IP[local_ip_type] <local external ip address>`
+      c=IN IP[local_ip_type] <local external ip address>
 
